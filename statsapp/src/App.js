@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+// import './App.css';
 import './Stats';
 import Stats from './Stats';
 import Image from './Image';
@@ -10,7 +9,6 @@ function App() {
       <Stats/>
       <Image/>
     </div>
-    
   );
 }
 
